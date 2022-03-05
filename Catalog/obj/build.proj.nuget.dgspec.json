@@ -1,0 +1,42 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\RestAPI\\RestApiTest\\Catalog\\build.proj": {}
+  },
+  "projects": {
+    "D:\\Projects\\RestAPI\\RestApiTest\\Catalog\\build.proj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\RestAPI\\RestApiTest\\Catalog\\build.proj",
+        "projectName": "build",
+        "projectPath": "D:\\Projects\\RestAPI\\RestApiTest\\Catalog\\build.proj",
+        "packagesPath": "C:\\Users\\alexd\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\RestAPI\\RestApiTest\\Catalog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alexd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
